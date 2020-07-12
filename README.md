@@ -11,6 +11,7 @@ My personal gadget inventory.
 | Console | Xbox 360 Star Wars Limited Edition (with Kinect) | Microsoft |  |  |
 | Console | PlayStation 4 Pro | Sony |  |  |
 | Console | Switch (with Neon Blue and Neon Red Joy‑Con) | Nintendo |  |  |
+| Console | New Nintendo 3DS + Dragon Ball Z: Extreme Butoden Pack | Nintendo |  |  |
 | Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo |  |  |
 | Console | Nimbus | SteelSeries |  |  |
 | Multimedia | Chromecast (1st generation) | Google |  |  |
