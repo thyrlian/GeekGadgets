@@ -6,6 +6,8 @@ My personal gadget inventory.
 | --- | --- | --- | --- | --- |
 | Wearable | [Google Glass](https://www.google.com/glass/) | Google |  |  |
 | Wearable | [Myo armband](https://support.getmyo.com/hc/en-us) | Thalmic Labs (North) |  |  |
+| eReader | Kindle DX Graphite (Free 3G works globally) | Amazon |  |  |
+| eReader | Kindle Oasis (9th Generation) - WLAN 32GB | Amazon |  |  |
 | Console | Xbox 360 Star Wars Limited Edition (with Kinect) | Microsoft |  |  |
 | Console | PlayStation 4 Pro | Sony |  |  |
 | Console | Switch (with Neon Blue and Neon Red Joy‑Con) | Nintendo |  |  |
