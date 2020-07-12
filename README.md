@@ -46,11 +46,11 @@ My personal gadget inventory.
 | Mouse | Magic Trackpad | Apple |  |  |
 | Presentation Remote | Spotlight | Logitech |  |  |
 | Optical Drive | SE-218CN/RSBS Ultra Slim-Line External DVD 8X | Samsung |  |  |
-| Computer |  |  |  |  |
-| Computer |  |  |  |  |
-| Computer |  |  |  |  |
+| Computer | MacBook Pro (13-inch, 2017) | Apple |  | 3.5 GHz Dual-Core Intel Core i7, 16 GB 2133 MHz LPDDR3, 512 GB SSD |
+| Computer | Mac mini (2018, 4th Generation) | Apple |  | 3.2 GHz 6-Core 8th-Generation Intel Core i7 (Turbo Boost up to 4.6 GHz), 32 GB 2666 MHz DDR4, 512 GB SSD, 10 Gigabit Ethernet |
+| Computer | [Chromebook Pixel (Wi-Fi) 32GB](https://en.wikipedia.org/wiki/Chromebook_Pixel) | Google |  | Giveaway by Google I/O 2013 |
 | Tablet | iPad mini 4 Wi-Fi + Cellular 128 GB - Gold | Apple |  |  |
-| Tablet | Nexus 9 | Google |  |  |
+| Tablet | Nexus 9 - Wi-Fi 16 GB | Google |  | Giveaway by Google I/O 2015 |
 | Networking | [RT-AC68U AC1900](https://www.asus.com/Networking/RTAC68U/) | ASUS |  |  |
 | Networking | [RP-AC87 AC2600](https://www.asus.com/Networking/RP-AC87/) | ASUS |  |  |
 | SBC | [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) | Raspberry Pi |  |  |
