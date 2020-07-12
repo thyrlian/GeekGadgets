@@ -33,6 +33,11 @@ My personal gadget inventory.
 | Camera | HERO4 Black | GoPro |  |  |
 | Camera | [K-5](http://www.ricoh-imaging.co.jp/english/products/k-5/feature.html) | Pentax |  |  |
 | Camera | [FA 77mm/F1,8 Limited Silver](http://www.ricoh-imaging.co.jp/english/products/lens/k/telephoto/smcpentax-fa77/)(宾得二公主) | Pentax |  |  |
+| Monitor | [UltraSharp U3219Q](https://www.dell.com/en-us/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) | DELL |  |  |
+| Keyboard | HHKB Pro 2 Type-S | PFU Limited (Fujitsu) |  |  |
+| Keyboard | Magic Keyboard with Numeric Keypad - Silver | Apple |  |  |
+| Mouse | MX Master 3 | Logitech |  |  |
+| Mouse | Magic Trackpad | Apple |  |  |
 | Watch | [PRW-7000-1A](https://www.protrek.eu/euro/collection/prw-7000-1aer/) | Casio |  |  |
 | Watch | PRG-80YT (Module No. 2894) | Casio |  |  |
 | Sport | [One S2](https://eu-en.segway.com/products/ninebot-by-segway-one-s2) | Ninebot by Segway |  |  |
