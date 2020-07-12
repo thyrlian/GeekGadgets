@@ -40,6 +40,9 @@ My personal gadget inventory.
 | Mouse | MX Master 3 | Logitech |  |  |
 | Mouse | Magic Trackpad | Apple |  |  |
 | Presentation Remote | Spotlight | Logitech |  |  |
+| Single-Board Computer | [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) | Raspberry Pi |  |  |
+| Single-Board Computer | [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) | Raspberry Pi |  |  |
+| Single-Board Computer | [Tinker Board](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/) | ASUS |  |  |
 | Watch | [PRW-7000-1A](https://www.protrek.eu/euro/collection/prw-7000-1aer/) | Casio |  |  |
 | Watch | PRG-80YT (Module No. 2894) | Casio |  |  |
 | Sport | [One S2](https://eu-en.segway.com/products/ninebot-by-segway-one-s2) | Ninebot by Segway |  |  |
