@@ -40,9 +40,11 @@ My personal gadget inventory.
 | Mouse | MX Master 3 | Logitech |  |  |
 | Mouse | Magic Trackpad | Apple |  |  |
 | Presentation Remote | Spotlight | Logitech |  |  |
-| Single-Board Computer | [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) | Raspberry Pi |  |  |
-| Single-Board Computer | [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) | Raspberry Pi |  |  |
-| Single-Board Computer | [Tinker Board](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/) | ASUS |  |  |
+| SBC | [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) | Raspberry Pi |  |  |
+| SBC | [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) | Raspberry Pi |  |  |
+| SBC | [Tinker Board](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/) | ASUS |  |  |
+| NAS | [DiskStation DS218play](https://www.synology.com/en-global/products/DS218play) | Synology |  |  |
+| Storage | Supersonic Rage 2 | Patriot |  |  |
 | Watch | [PRW-7000-1A](https://www.protrek.eu/euro/collection/prw-7000-1aer/) | Casio |  |  |
 | Watch | PRG-80YT (Module No. 2894) | Casio |  |  |
 | Sport | [One S2](https://eu-en.segway.com/products/ninebot-by-segway-one-s2) | Ninebot by Segway |  |  |
