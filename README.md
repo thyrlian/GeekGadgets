@@ -5,6 +5,7 @@ My personal gadget inventory.
 | Category | Model | Brand | Appearance | Note |
 | --- | --- | --- | --- | --- |
 | Wearable | [Google Glass](https://www.google.com/glass/) | Google |  |  |
+| Wearable | [Myo armband](https://support.getmyo.com/hc/en-us) | Thalmic Labs (North) |  |  |
 | Console | Xbox 360 Star Wars Limited Edition (with Kinect) | Microsoft |  |  |
 | Console | PlayStation 4 Pro | Sony |  |  |
 | Console | Switch (with Neon Blue and Neon Red Joy‑Con) | Nintendo |  |  |
