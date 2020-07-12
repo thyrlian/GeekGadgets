@@ -14,11 +14,11 @@ My personal gadget inventory.
 | Console | New Nintendo 3DS + Dragon Ball Z: Extreme Butoden Pack | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/new_nintendo_3ds_dragon_ball_z.jpg?raw=true" height="100"> |  |
 | Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sf30_pro.jpg?raw=true" width="100"> |  |
 | Console | Nimbus | SteelSeries | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/steelseries_nimbus.jpg?raw=true" width="100"> |  |
-| Multimedia | Chromecast (1st generation) | Google |  |  |
-| Multimedia | Chromecast (2nd generation) | Google |  |  |
-| Multimedia | [SHIELD TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/) | NVIDIA |  |  |
-| Multimedia | Mi Box 3 Enhanced Edition (小米盒子3增强版) | Xiaomi |  |  |
-| Multimedia | Tencent Penguin Aurora 2nd generation TV Box (腾讯极光2代盒子) | Tencent (Skyworth) |  |  |
+| Multimedia | Chromecast (1st generation) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/chromecast_1st_gen.jpg?raw=true" height="100"> |  |
+| Multimedia | Chromecast (2nd generation) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/chromecast_2nd_gen.jpeg?raw=true" height="100"> |  |
+| Multimedia | [SHIELD TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/) | NVIDIA | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nvidia_shield_tv_pro.jpg?raw=true" height="100"> |  |
+| Multimedia | Mi Box 3 Enhanced Edition (小米盒子3增强版) | Xiaomi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/mi_box_3_enhanced_edition.png?raw=true" height="100"> |  |
+| Multimedia | Tencent Penguin Aurora 2nd generation TV Box (腾讯极光2代盒子) | Tencent (Skyworth) | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/tencent_aurora_2nd_gen.png?raw=true" height="100"> |  |
 | HiFi | [Porta Pro](https://www.koss.com/headphones/on-ear-headphones/porta-pro) | Koss |  |  |
 | HiFi | [ATH-EM7 GM](https://www.audio-technica.com/cms/headphones/e11718e915315e8f/index.html) | Audio-Technica |  |  |
 | HiFi | [ATH-ES88](https://www.audio-technica.com/cms/headphones/cec456b4dffd1dab/index.html) | Audio-Technica |  |  |
