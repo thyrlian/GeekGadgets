@@ -46,6 +46,11 @@ My personal gadget inventory.
 | Mouse | Magic Trackpad | Apple |  |  |
 | Presentation Remote | Spotlight | Logitech |  |  |
 | Optical Drive | SE-218CN/RSBS Ultra Slim-Line External DVD 8X | Samsung |  |  |
+| Computer |  |  |  |  |
+| Computer |  |  |  |  |
+| Computer |  |  |  |  |
+| Tablet | iPad mini 4 Wi-Fi + Cellular 128 GB - Gold | Apple |  |  |
+| Tablet | Nexus 9 | Google |  |  |
 | Networking | [RT-AC68U AC1900](https://www.asus.com/Networking/RTAC68U/) | ASUS |  |  |
 | Networking | [RP-AC87 AC2600](https://www.asus.com/Networking/RP-AC87/) | ASUS |  |  |
 | SBC | [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) | Raspberry Pi |  |  |
