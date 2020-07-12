@@ -26,4 +26,9 @@ My personal gadget inventory.
 | HiFi | [Beoplay H9i (B&O x RIMOWA Limited Edition)](https://www.bang-olufsen.com/en/story/rimowa) | Bang & Olufsen |  |  |
 | HiFi | [AT2020USB+](https://www.audio-technica.com/cms/wired_mics/5879a6ca22e5aa7e/index.html) | Audio-Technica |  |  |
 | HiFi | [AT-LP120-USB](https://www.audio-technica.com/cms/turntables/583f30b3a8662772/index.html) | Audio-Technica |  |  |
+| Camera | [FinePix S100FS](https://en.wikipedia.org/wiki/Fujifilm_FinePix_S100fs) | Fujifilm |  |  |
+| Camera | [X100F](https://fujifilm-x.com/global/products/cameras/x100f/) | Fujifilm |  |  |
+| Camera | HERO4 Black | GoPro |  |  |
+| Camera | [K-5](http://www.ricoh-imaging.co.jp/english/products/k-5/feature.html) | Pentax |  |  |
+| Camera | [FA 77mm/F1,8 Limited Silver](http://www.ricoh-imaging.co.jp/english/products/lens/k/telephoto/smcpentax-fa77/)(宾得二公主) | Pentax |  |  |
 |  |  |  |  |  |
