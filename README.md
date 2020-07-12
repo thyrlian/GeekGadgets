@@ -4,7 +4,7 @@ My personal gadget inventory.
 
 | Category | Model | Brand | Appearance | Note |
 | --- | --- | --- | --- | --- |
-| Wearable | [Google Glass](https://www.google.com/glass/) | Google |  |  |
+| Wearable | [Google Glass Explorer Edition](https://www.google.com/glass/) - Tangerine | Google |  |  |
 | Wearable | [Myo armband](https://support.getmyo.com/hc/en-us) | Thalmic Labs (North) |  |  |
 | eReader | Kindle DX Graphite (Free 3G works globally) | Amazon |  |  |
 | eReader | Kindle Oasis (9th Generation) - WLAN 32GB | Amazon |  |  |
