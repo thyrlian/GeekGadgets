@@ -46,6 +46,7 @@ My personal gadget inventory.
 | Networking | [RP-AC87 AC2600](https://www.asus.com/Networking/RP-AC87/) | ASUS |  |  |
 | SBC | [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) | Raspberry Pi |  |  |
 | SBC | [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) | Raspberry Pi |  |  |
+| SBC | [Arduino/Genuino Uno Board](https://www.arduino.cc/en/guide/BoardAnatomy) | Arduino |  |  |
 | SBC | [Tinker Board](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/) | ASUS |  |  |
 | NAS | [DiskStation DS218play](https://www.synology.com/en-global/products/DS218play) | Synology |  |  |
 | Storage | Supersonic Rage 2 | Patriot |  |  |
