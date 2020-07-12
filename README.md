@@ -40,8 +40,8 @@ My personal gadget inventory.
 | Mouse | MX Master 3 | Logitech |  |  |
 | Mouse | Magic Trackpad | Apple |  |  |
 | Presentation Remote | Spotlight | Logitech |  |  |
-| Network | [RT-AC68U AC1900](https://www.asus.com/Networking/RTAC68U/) | ASUS |  |  |
-| Network | [RP-AC87 AC2600](https://www.asus.com/Networking/RP-AC87/) | ASUS |  |  |
+| Networking | [RT-AC68U AC1900](https://www.asus.com/Networking/RTAC68U/) | ASUS |  |  |
+| Networking | [RP-AC87 AC2600](https://www.asus.com/Networking/RP-AC87/) | ASUS |  |  |
 | SBC | [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) | Raspberry Pi |  |  |
 | SBC | [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) | Raspberry Pi |  |  |
 | SBC | [Tinker Board](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/) | ASUS |  |  |
