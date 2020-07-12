@@ -12,8 +12,8 @@ My personal gadget inventory.
 | Console | PlayStation 4 Pro | Sony | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ps4_pro.png?raw=true" height="100"> |  |
 | Console | Switch (with Neon Blue and Neon Red Joy‑Con) | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nintendo_switch.jpg?raw=true" height="100"> |  |
 | Console | New Nintendo 3DS + Dragon Ball Z: Extreme Butoden Pack | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/new_nintendo_3ds_dragon_ball_z.jpg?raw=true" height="100"> |  |
-| Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo |  |  |
-| Console | Nimbus | SteelSeries |  |  |
+| Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sf30_pro.jpg?raw=true" width="100"> |  |
+| Console | Nimbus | SteelSeries | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/steelseries_nimbus.jpg?raw=true" width="100"> |  |
 | Multimedia | Chromecast (1st generation) | Google |  |  |
 | Multimedia | Chromecast (2nd generation) | Google |  |  |
 | Multimedia | [SHIELD TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/) | NVIDIA |  |  |
