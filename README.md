@@ -36,4 +36,5 @@ My personal gadget inventory.
 | Watch | [PRW-7000-1A](https://www.protrek.eu/euro/collection/prw-7000-1aer/) | Casio |  |  |
 | Watch | PRG-80YT (Module No. 2894) | Casio |  |  |
 | Sport | [One S2](https://eu-en.segway.com/products/ninebot-by-segway-one-s2) | Ninebot by Segway |  |  |
+| Toy | [Cozmo](https://anki.com/en-us/cozmo.html) | Anki |  |  |
 |  |  |  |  |  |
