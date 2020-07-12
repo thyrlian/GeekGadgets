@@ -9,6 +9,7 @@ My personal gadget inventory.
 | Console | PlayStation 4 Pro | Sony |  |  |
 | Console | Switch (with Neon Blue and Neon Red Joy‑Con) | Nintendo |  |  |
 | Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo |  |  |
+| Console | Nimbus | SteelSeries |  |  |
 | Multimedia | Chromecast (1st generation) | Google |  |  |
 | Multimedia | Chromecast (2nd generation) | Google |  |  |
 | Multimedia | [SHIELD TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/) | NVIDIA |  |  |
