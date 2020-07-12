@@ -4,13 +4,13 @@ My personal gadget inventory.
 
 | Category | Model | Brand | Appearance | Note |
 | --- | --- | --- | --- | --- |
-| Wearable | [Google Glass Explorer Edition](https://www.google.com/glass/) - Tangerine | Google |  |  |
-| Wearable | [Myo armband](https://support.getmyo.com/hc/en-us) | Thalmic Labs (North) |  |  |
-| eReader | Kindle DX Graphite (Free 3G works globally) | Amazon |  |  |
-| eReader | Kindle Oasis (9th Generation) - WLAN 32GB | Amazon |  |  |
+| Wearable | [Google Glass Explorer Edition](https://www.google.com/glass/) - Tangerine | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_glass.jpeg?raw=true" height="100"> |  |
+| Wearable | [Myo armband](https://support.getmyo.com/hc/en-us) | Thalmic Labs (North) | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/myo.jpg?raw=true" height="100"> |  |
+| eReader | Kindle DX Graphite (Free 3G works globally) | Amazon | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/kindle_dx_graphite.jpg?raw=true" height="100"> |  |
+| eReader | Kindle Oasis (9th Generation) - WLAN 32GB | Amazon | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/kindle_oasis.jpg?raw=true" height="100"> |  |
 | Console | Xbox 360 Star Wars Limited Edition (with Kinect) | Microsoft | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/xbox_360_star_wars_limited_edition_1.jpg?raw=true" height="100"> |  |
-| Console | PlayStation 4 Pro | Sony |  |  |
-| Console | Switch (with Neon Blue and Neon Red Joy‑Con) | Nintendo |  |  |
+| Console | PlayStation 4 Pro | Sony | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ps4_pro.png?raw=true" height="100"> |  |
+| Console | Switch (with Neon Blue and Neon Red Joy‑Con) | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nintendo_switch.jpg?raw=true" height="100"> |  |
 | Console | New Nintendo 3DS + Dragon Ball Z: Extreme Butoden Pack | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/new_nintendo_3ds_dragon_ball_z.jpg?raw=true" height="100"> |  |
 | Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo |  |  |
 | Console | Nimbus | SteelSeries |  |  |
