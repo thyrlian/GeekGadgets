@@ -13,4 +13,17 @@ My personal gadget inventory.
 | Multimedia | [SHIELD TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/) | NVIDIA |  |  |
 | Multimedia | Mi Box 3 Enhanced Edition (小米盒子3增强版) | Xiaomi |  |  |
 | Multimedia | Tencent Penguin Aurora 2nd generation TV Box (腾讯极光2代盒子) | Tencent (Skyworth) |  |  |
+| HiFi | [Porta Pro](https://www.koss.com/headphones/on-ear-headphones/porta-pro) | Koss |  |  |
+| HiFi | [ATH-EM7 GM](https://www.audio-technica.com/cms/headphones/e11718e915315e8f/index.html) | Audio-Technica |  |  |
+| HiFi | [ATH-ES88](https://www.audio-technica.com/cms/headphones/cec456b4dffd1dab/index.html) | Audio-Technica |  |  |
+| HiFi | [MDR-1ADAC](https://www.sony.com/electronics/support/wired-headphones-headband/mdr-1adac) | Sony |  |  |
+| HiFi | E900M | Onkyo |  |  |
+| HiFi | [S10 HD](https://support.motorola.com/us/en/products/accessories/bluetooth-headsets/s10-hd) | Motorola |  |  |
+| HiFi | [Powerbeats2 Wireless](https://www.beatsbydre.com/support/earphones/powerbeats2-wireless) | Beats |  |  |
+| HiFi | [MOMENTUM True Wireless](https://en-us.sennheiser.com/truewireless-details) | Sennheiser |  |  |
+| HiFi | [MOMENTUM True Wireless 2](https://en-us.sennheiser.com/momentumtruewireless-2) | Sennheiser |  |  |
+| HiFi | Beoplay A1 | Bang & Olufsen |  |  |
+| HiFi | [Beoplay H9i (B&O x RIMOWA Limited Edition)](https://www.bang-olufsen.com/en/story/rimowa) | Bang & Olufsen |  |  |
+| HiFi | [AT2020USB+](https://www.audio-technica.com/cms/wired_mics/5879a6ca22e5aa7e/index.html) | Audio-Technica |  |  |
+| HiFi | [AT-LP120-USB](https://www.audio-technica.com/cms/turntables/583f30b3a8662772/index.html) | Audio-Technica |  |  |
 |  |  |  |  |  |
