@@ -8,10 +8,10 @@ My personal gadget inventory.
 | Wearable | [Myo armband](https://support.getmyo.com/hc/en-us) | Thalmic Labs (North) |  |  |
 | eReader | Kindle DX Graphite (Free 3G works globally) | Amazon |  |  |
 | eReader | Kindle Oasis (9th Generation) - WLAN 32GB | Amazon |  |  |
-| Console | Xbox 360 Star Wars Limited Edition (with Kinect) | Microsoft |  |  |
+| Console | Xbox 360 Star Wars Limited Edition (with Kinect) | Microsoft | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/xbox_360_star_wars_limited_edition_1.jpg?raw=true" height="100"> |  |
 | Console | PlayStation 4 Pro | Sony |  |  |
 | Console | Switch (with Neon Blue and Neon Red Joy‑Con) | Nintendo |  |  |
-| Console | New Nintendo 3DS + Dragon Ball Z: Extreme Butoden Pack | Nintendo |  |  |
+| Console | New Nintendo 3DS + Dragon Ball Z: Extreme Butoden Pack | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/new_nintendo_3ds_dragon_ball_z.jpg?raw=true" height="100"> |  |
 | Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo |  |  |
 | Console | Nimbus | SteelSeries |  |  |
 | Multimedia | Chromecast (1st generation) | Google |  |  |
