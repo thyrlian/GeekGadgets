@@ -62,6 +62,7 @@ My personal gadget inventory.
 | Adapter | [Type-C Aluminum Multi-Port Adapter 4K with Ethernet](https://satechi.net/products/satechi-aluminum-multi-port-adapter-4k) | Satechi |  |  |
 | Watch | [PRW-7000-1A](https://www.protrek.eu/euro/collection/prw-7000-1aer/) | Casio |  |  |
 | Watch | PRG-80YT (Module No. 2894) | Casio |  |  |
+| Desk | [Jarvis Bamboo Adjustable Standing Desk](https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html) | Fully |  |  |
 | Illumination | [Lightcycle task light](https://www.dyson.com/task-lighting/dyson-lightcycle-overview.html) | Dyson |  |  |
 | Sport | [One S2](https://eu-en.segway.com/products/ninebot-by-segway-one-s2) | Ninebot by Segway |  |  |
 | Toy | [Cozmo](https://anki.com/en-us/cozmo.html) | Anki |  |  |
