@@ -32,15 +32,15 @@ My personal gadget inventory.
 | HiFi | [Beoplay H9i (B&O x RIMOWA Limited Edition)](https://www.bang-olufsen.com/en/story/rimowa) | Bang & Olufsen |  |  |
 | HiFi | [AT2020USB+](https://www.audio-technica.com/cms/wired_mics/5879a6ca22e5aa7e/index.html) | Audio-Technica |  |  |
 | HiFi | [AT-LP120-USB](https://www.audio-technica.com/cms/turntables/583f30b3a8662772/index.html) | Audio-Technica |  |  |
-| Smart Speaker | Google Home Mini | Google |  |  |
-| Camera | [FinePix S100FS](https://en.wikipedia.org/wiki/Fujifilm_FinePix_S100fs) | Fujifilm |  |  |
-| Camera | [X100F](https://fujifilm-x.com/global/products/cameras/x100f/) | Fujifilm |  |  |
-| Camera | HERO4 Black | GoPro |  |  |
-| Camera | [K-5](http://www.ricoh-imaging.co.jp/english/products/k-5/feature.html) | Pentax |  |  |
-| Camera | [FA 77mm/F1,8 Limited Silver](http://www.ricoh-imaging.co.jp/english/products/lens/k/telephoto/smcpentax-fa77/) (宾得二公主) | Pentax |  |  |
+| Smart Speaker | Google Home Mini | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_home_mini.jpg?raw=true" height="100"> |  |
+| Camera | [FinePix S100FS](https://en.wikipedia.org/wiki/Fujifilm_FinePix_S100fs) | Fujifilm | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/fujifilm_finepix_s100fs.jpg?raw=true" width="100"> |  |
+| Camera | [X100F](https://fujifilm-x.com/global/products/cameras/x100f/) | Fujifilm | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/fujifilm_x100f.jpg?raw=true" width="100"> |  |
+| Camera | HERO4 Black | GoPro | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/gopro_hero4_black.jpg?raw=true" height="100"> |  |
+| Camera | [K-5](http://www.ricoh-imaging.co.jp/english/products/k-5/feature.html) | Pentax | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/pentax_k5.jpg?raw=true" width="100"> |  |
+| Camera | [FA 77mm/F1,8 Limited Silver](http://www.ricoh-imaging.co.jp/english/products/lens/k/telephoto/smcpentax-fa77/) (宾得二公主) | Pentax | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/fa_77mm.jpg?raw=true" width="100"> |  |
 | Camera | Genius Light GL-01 | Iwata | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/iwata_gl_01.jpg?raw=true" height="100"> |  |
-| Projector | [EH-TW5350](https://www.epson.de/en/viewcon/corporatesite/site/213/products/mainunits/consumables/17799) | Epson |  |  |
-| Monitor | [UltraSharp U3219Q](https://www.dell.com/en-us/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) | DELL |  |  |
+| Projector | [EH-TW5350](https://www.epson.de/en/viewcon/corporatesite/site/213/products/mainunits/consumables/17799) | Epson | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/epson_eh_tw5350.png?raw=true" width="100"> |  |
+| Monitor | [UltraSharp U3219Q](https://www.dell.com/en-us/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) | DELL | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/dell_ultrasharp_u3219q.jpg?raw=true" width="100"> |  |
 | Keyboard | HHKB Pro 2 Type-S | PFU Limited (Fujitsu) |  |  |
 | Keyboard | Magic Keyboard with Numeric Keypad - Silver | Apple |  |  |
 | Mouse | MX Master 3 | Logitech |  |  |
