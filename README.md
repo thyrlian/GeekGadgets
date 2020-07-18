@@ -41,12 +41,12 @@ My personal gadget inventory.
 | Camera | Genius Light GL-01 | Iwata | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/iwata_gl_01.jpg?raw=true" height="100"> |  |
 | Projector | [EH-TW5350](https://www.epson.de/en/viewcon/corporatesite/site/213/products/mainunits/consumables/17799) | Epson | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/epson_eh_tw5350.png?raw=true" width="100"> |  |
 | Monitor | [UltraSharp U3219Q](https://www.dell.com/en-us/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) | DELL | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/dell_ultrasharp_u3219q.jpg?raw=true" width="100"> |  |
-| Keyboard | HHKB Pro 2 Type-S | PFU Limited (Fujitsu) |  |  |
-| Keyboard | Magic Keyboard with Numeric Keypad - Silver | Apple |  |  |
-| Mouse | MX Master 3 | Logitech |  |  |
-| Mouse | Magic Trackpad | Apple |  |  |
-| Presentation Remote | Spotlight | Logitech |  |  |
-| Optical Drive | SE-218CN/RSBS Ultra Slim-Line External DVD 8X | Samsung |  |  |
+| Keyboard | HHKB Pro 2 Type-S | PFU Limited (Fujitsu) | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/hhkb_pro_2_type_s.jpg?raw=true" width="100"> |  |
+| Keyboard | Magic Keyboard with Numeric Keypad - Silver | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/magic_keyboard_with_numeric_keypad_silver.jpeg?raw=true" width="100"> |  |
+| Mouse | MX Master 3 | Logitech | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/logitech_mx_master_3.jpg?raw=true" width="100"> |  |
+| Mouse | Magic Trackpad | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/magic_trackpad.jpeg?raw=true" width="100"> |  |
+| Presentation Remote | Spotlight | Logitech | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/logitech_spotlight.jpg?raw=true" height="100"> |  |
+| Optical Drive | SE-218CN/RSBS Ultra Slim-Line External DVD 8X | Samsung | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/samsung_se_218cn_rsbs_external_dvd.jpg?raw=true" width="100"> |  |
 | Computer | MacBook Pro (13-inch, 2017) | Apple |  | 3.5 GHz Dual-Core Intel Core i7, 16 GB 2133 MHz LPDDR3, 512 GB SSD |
 | Computer | Mac mini (2018, 4th Generation) | Apple |  | 3.2 GHz 6-Core 8th-Generation Intel Core i7 (Turbo Boost up to 4.6 GHz), 32 GB 2666 MHz DDR4, 512 GB SSD, 10 Gigabit Ethernet |
 | Computer | [Chromebook Pixel (Wi-Fi) 32GB](https://en.wikipedia.org/wiki/Chromebook_Pixel) | Google |  | Giveaway by Google I/O 2013 |
