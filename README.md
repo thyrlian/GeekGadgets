@@ -47,20 +47,20 @@ My personal gadget inventory.
 | Mouse | Magic Trackpad | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/magic_trackpad.jpeg?raw=true" width="100"> |  |
 | Presentation Remote | Spotlight | Logitech | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/logitech_spotlight.jpg?raw=true" height="100"> |  |
 | Optical Drive | SE-218CN/RSBS Ultra Slim-Line External DVD 8X | Samsung | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/samsung_se_218cn_rsbs_external_dvd.jpg?raw=true" width="100"> |  |
-| Computer | MacBook Pro (13-inch, 2017) | Apple |  | 3.5 GHz Dual-Core Intel Core i7, 16 GB 2133 MHz LPDDR3, 512 GB SSD |
-| Computer | Mac mini (2018, 4th Generation) | Apple |  | 3.2 GHz 6-Core 8th-Generation Intel Core i7 (Turbo Boost up to 4.6 GHz), 32 GB 2666 MHz DDR4, 512 GB SSD, 10 Gigabit Ethernet |
-| Computer | [Chromebook Pixel (Wi-Fi) 32GB](https://en.wikipedia.org/wiki/Chromebook_Pixel) | Google |  | Giveaway by Google I/O 2013 |
-| Tablet | iPad mini 4 Wi-Fi + Cellular 128 GB - Gold | Apple |  |  |
-| Tablet | Nexus 9 - Wi-Fi 16 GB | Google |  | Giveaway by Google I/O 2015 |
-| Networking | [RT-AC68U AC1900](https://www.asus.com/Networking/RTAC68U/) | ASUS |  |  |
-| Networking | [RP-AC87 AC2600](https://www.asus.com/Networking/RP-AC87/) | ASUS |  |  |
-| SBC | [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) | Raspberry Pi |  |  |
-| SBC | [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) | Raspberry Pi |  |  |
-| SBC | [Arduino/Genuino Uno Board](https://www.arduino.cc/en/guide/BoardAnatomy) | Arduino |  |  |
-| SBC | [Tinker Board](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/) | ASUS |  |  |
-| NAS | [DiskStation DS218play](https://www.synology.com/en-global/products/DS218play) | Synology |  |  |
-| Storage | Supersonic Rage 2 | Patriot |  |  |
-| Adapter | [Type-C Aluminum Multi-Port Adapter 4K with Ethernet](https://satechi.net/products/satechi-aluminum-multi-port-adapter-4k) | Satechi |  |  |
+| Computer | MacBook Pro (13-inch, 2017) | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/macbook_pro_13_inch_2017_touch_gray.jpeg?raw=true" width="100"> | 3.5 GHz Dual-Core Intel Core i7, 16 GB 2133 MHz LPDDR3, 512 GB SSD |
+| Computer | Mac mini (2018, 4th Generation) | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/mac_mini_2018.jpeg?raw=true" width="100"> | 3.2 GHz 6-Core 8th-Generation Intel Core i7 (Turbo Boost up to 4.6 GHz), 32 GB 2666 MHz DDR4, 512 GB SSD, 10 Gigabit Ethernet |
+| Computer | [Chromebook Pixel (Wi-Fi) 32GB](https://en.wikipedia.org/wiki/Chromebook_Pixel) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/chromebook_pixel.jpg?raw=true" width="100"> | Giveaway by Google I/O 2013 |
+| Tablet | iPad mini 4 Wi-Fi + Cellular 128 GB - Gold | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ipad_mini_4_gold.jpeg?raw=true" width="100"> |  |
+| Tablet | Nexus 9 - Wi-Fi 16 GB | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nexus_9.png?raw=true" width="100"> | Giveaway by Google I/O 2015 |
+| Networking | [RT-AC68U AC1900](https://www.asus.com/Networking/RTAC68U/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rt_ac68u_ac1900.jpg?raw=true" width="100"> |  |
+| Networking | [RP-AC87 AC2600](https://www.asus.com/Networking/RP-AC87/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rp_ac87_ac2600.jpg?raw=true" width="100"> |  |
+| SBC | [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) | Raspberry Pi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/raspberry_pi_2_model_b.jpg?raw=true" width="100"> |  |
+| SBC | [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) | Raspberry Pi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/raspberry_pi_zero_w.png?raw=true" width="100"> |  |
+| SBC | [Arduino/Genuino Uno Board](https://www.arduino.cc/en/guide/BoardAnatomy) | Arduino | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/arduino_genuino_uno_board.jpg?raw=true" width="100"> |  |
+| SBC | [Tinker Board](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_tinker_board.jpeg?raw=true" width="100"> |  |
+| NAS | [DiskStation DS218play](https://www.synology.com/en-global/products/DS218play) | Synology | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/synology_diskstation_ds218play.png?raw=true" width="100"> |  |
+| Storage | Supersonic Rage 2 | Patriot | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/patriot_supersonic_rage_2.jpg?raw=true" width="100"> |  |
+| Adapter | [Type-C Aluminum Multi-Port Adapter 4K with Ethernet](https://satechi.net/products/satechi-aluminum-multi-port-adapter-4k) | Satechi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/satechi_type_c_multi_port_adapter_4k_with_ethernet.jpg?raw=true" width="100"> |  |
 | Watch | [PRW-7000-1A](https://www.protrek.eu/euro/collection/prw-7000-1aer/) | Casio |  |  |
 | Watch | PRG-80YT (Module No. 2894) | Casio |  |  |
 | Desk | [Jarvis Bamboo Adjustable Standing Desk](https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html) | Fully |  |  |
