@@ -61,10 +61,10 @@ My personal gadget inventory.
 | NAS | [DiskStation DS218play](https://www.synology.com/en-global/products/DS218play) | Synology | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/synology_diskstation_ds218play.png?raw=true" width="100"> |  |
 | Storage | Supersonic Rage 2 | Patriot | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/patriot_supersonic_rage_2.jpg?raw=true" width="100"> |  |
 | Adapter | [Type-C Aluminum Multi-Port Adapter 4K with Ethernet](https://satechi.net/products/satechi-aluminum-multi-port-adapter-4k) | Satechi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/satechi_type_c_multi_port_adapter_4k_with_ethernet.jpg?raw=true" width="100"> |  |
-| Watch | [PRW-7000-1A](https://www.protrek.eu/euro/collection/prw-7000-1aer/) | Casio |  |  |
-| Watch | PRG-80YT (Module No. 2894) | Casio |  |  |
-| Desk | [Jarvis Bamboo Adjustable Standing Desk](https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html) | Fully |  |  |
-| Illumination | [Lightcycle task light](https://www.dyson.com/task-lighting/dyson-lightcycle-overview.html) | Dyson |  |  |
-| Sport | [One S2](https://eu-en.segway.com/products/ninebot-by-segway-one-s2) | Ninebot by Segway |  |  |
-| Toy | [Cozmo](https://anki.com/en-us/cozmo.html) | Anki |  |  |
+| Watch | [PRW-7000-1A](https://www.protrek.eu/euro/collection/prw-7000-1aer/) | Casio | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/casio_prw_7000_1a.png?raw=true" width="100"> |  |
+| Watch | PRG-80YT (Module No. 2894) | Casio | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/casio_prg_80yt.jpg?raw=true" width="100"> |  |
+| Desk | [Jarvis Bamboo Adjustable Standing Desk](https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html) | Fully | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/fully_jarvis_bamboo_adjustable_standing_desk.png?raw=true" width="100"> |  |
+| Illumination | [Lightcycle task light](https://www.dyson.com/task-lighting/dyson-lightcycle-overview.html) | Dyson | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/dyson_lightcycle_task_light.jpg?raw=true" width="100"> |  |
+| Sport | [One S2](https://eu-en.segway.com/products/ninebot-by-segway-one-s2) | Ninebot by Segway | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ninebot_one_s2.png?raw=true" width="100"> |  |
+| Toy | [Cozmo](https://anki.com/en-us/cozmo.html) | Anki | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/anki_cozmo.png?raw=true" width="100"> |  |
 |  |  |  |  |  |
