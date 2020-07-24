@@ -59,7 +59,8 @@ My personal gadget inventory.
 | SBC | [Arduino/Genuino Uno Board](https://www.arduino.cc/en/guide/BoardAnatomy) | Arduino | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/arduino_genuino_uno_board.jpg?raw=true" width="100"> |  |
 | SBC | [Tinker Board](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_tinker_board.jpeg?raw=true" width="100"> |  |
 | NAS | [DiskStation DS218play](https://www.synology.com/en-global/products/DS218play) | Synology | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/synology_diskstation_ds218play.png?raw=true" width="100"> |  |
-| Storage | Supersonic Rage 2 | Patriot | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/patriot_supersonic_rage_2.jpg?raw=true" width="100"> |  |
+| Storage | Supersonic Rage 2 | Patriot | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/patriot_supersonic_rage_2.jpg?raw=true" width="100"> | 128GB |
+| Storage | [Porsche Design USB-C Mobile Hard Drive (STFD2000400)](https://www.lacie.com/support/mobile-storage/porsche-design-mobile-drive/) | LaCie |  | 2TB, silver |
 | Adapter | [Type-C Aluminum Multi-Port Adapter 4K with Ethernet](https://satechi.net/products/satechi-aluminum-multi-port-adapter-4k) | Satechi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/satechi_type_c_multi_port_adapter_4k_with_ethernet.jpg?raw=true" width="100"> |  |
 | Watch | [PRW-7000-1A](https://www.protrek.eu/euro/collection/prw-7000-1aer/) | Casio | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/casio_prw_7000_1a.png?raw=true" width="100"> |  |
 | Watch | PRG-80YT (Module No. 2894) | Casio | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/casio_prg_80yt.jpg?raw=true" width="100"> |  |
