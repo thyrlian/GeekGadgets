@@ -77,5 +77,6 @@ My personal gadget inventory.
 | Desk | [Jarvis Bamboo Adjustable Standing Desk](https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html) | Fully | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/fully_jarvis_bamboo_adjustable_standing_desk.png?raw=true" width="100"> |  |
 | Illumination | [Lightcycle task light](https://www.dyson.com/task-lighting/dyson-lightcycle-overview.html) | Dyson | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/dyson_lightcycle_task_light.jpg?raw=true" width="100"> | Color: White/Silver |
 | Sport | [One S2](https://eu-en.segway.com/products/ninebot-by-segway-one-s2) | Ninebot by Segway | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ninebot_one_s2.png?raw=true" width="100"> |  |
+| Toy | [Tengu All Stars](http://www.tengutengutengu.com/) | Mr Jones | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/tengu_all_stars_stardust.jpg?raw=true" width="100"> | Form: Stardust |
 | Toy | [Cozmo](https://anki.com/en-us/cozmo.html) | Anki | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/anki_cozmo.png?raw=true" width="100"> | Collector's Edition in Liquid Metal |
 |  |  |  |  |  |
