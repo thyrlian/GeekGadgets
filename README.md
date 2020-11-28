@@ -33,7 +33,7 @@ My personal gadget inventory.
 | HiFi | [AT2020USB+](https://www.audio-technica.com/cms/wired_mics/5879a6ca22e5aa7e/index.html) | Audio-Technica | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/at2020usb_plus.jpg?raw=true" width="100"> |  |
 | HiFi | [AT-LP1240-USB](https://www.audio-technica.com/cms/turntables/d6801ac106377de4/index.html) | Audio-Technica | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/at_lp1240_usb.jpg?raw=true" width="100"> |  |
 | Smart Speaker | Google Home Mini | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_home_mini.jpg?raw=true" height="100"> |  |
-| Smart Clock | [LaMetric TIME](https://lametric.com/en-US/time/overview) | LaMetric | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/lametric_time.jpg?raw=true" height="100"> |  |
+| Smart Clock | [LaMetric TIME](https://lametric.com/en-US/time/overview) | LaMetric | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/lametric_time.jpg?raw=true" width="100"> |  |
 | Camera | [FinePix S100FS](https://en.wikipedia.org/wiki/Fujifilm_FinePix_S100fs) | Fujifilm | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/fujifilm_finepix_s100fs.jpg?raw=true" width="100"> |  |
 | Camera | [X100F](https://fujifilm-x.com/global/products/cameras/x100f/) | Fujifilm | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/fujifilm_x100f.jpg?raw=true" width="100"> | Color: Brown |
 | Camera | HERO4 Black | GoPro | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/gopro_hero4_black.jpg?raw=true" height="100"> |  |
