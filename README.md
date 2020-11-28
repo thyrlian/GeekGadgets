@@ -8,6 +8,7 @@ My personal gadget inventory.
 | Wearable | [Myo armband](https://support.getmyo.com/hc/en-us) | Thalmic Labs (North) | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/myo.jpg?raw=true" height="100"> |  |
 | eReader | Kindle DX Graphite | Amazon | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/kindle_dx_graphite.jpg?raw=true" width="100"> | Free 3G works globally |
 | eReader | Kindle Oasis (9th Generation) | Amazon | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/kindle_oasis.jpg?raw=true" height="100"> | WLAN 32GB |
+| E Ink Tablet | [reMarkable 2](https://remarkable.com/store/remarkable-2) | reMarkable | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/remarkable_2.jpg?raw=true" height="100"> |  |
 | Console | Xbox 360 Star Wars Limited Edition (with Kinect) | Microsoft | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/xbox_360_star_wars_limited_edition_1.jpg?raw=true" height="100"> |  |
 | Console | PlayStation 4 Pro | Sony | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ps4_pro.png?raw=true" height="100"> |  |
 | Console | Switch | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nintendo_switch.jpg?raw=true" height="100"> | with Neon Blue and Neon Red Joy‑Con |
