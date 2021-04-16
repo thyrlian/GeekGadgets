@@ -46,6 +46,7 @@ My personal gadget inventory.
 | Camera | Genius Light GL-01 | Iwata | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/iwata_gl_01.jpg?raw=true" height="100"> |  |
 | Home Camera | [Mi Home Security Camera 360°](https://www.mi.com/us/camera-360) (小米智能摄像机 云台版) | Xiaomi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/mi_home_camera_360.jpg?raw=true" width="100"> |  |
 | Home Camera | [Mi Home XiaoFang 1080p Camera](https://www.mi.com/xiaofang) (小方智能摄像机) | Xiaomi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/mi_home_xiaofang.jpg?raw=true" width="100"> |  |
+| Webcam | [StreamCam](https://www.logitech.com/en-us/products/webcams/streamcam.html) | Logitech | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/logitech_streamcam.png?raw=true" width="100"> | Color: White |
 | Keyboard | HHKB Pro 2 Type-S | PFU Limited (Fujitsu) | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/hhkb_pro_2_type_s.jpg?raw=true" width="100"> |  |
 | Keyboard | Magic Keyboard with Numeric Keypad | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/magic_keyboard_with_numeric_keypad_silver.jpeg?raw=true" width="100"> | Color: Silver |
 | Mouse | MX Master 3 | Logitech | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/logitech_mx_master_3.jpg?raw=true" width="100"> | Color: Mid Grey |
