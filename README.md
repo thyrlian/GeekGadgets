@@ -44,7 +44,7 @@ My personal gadget inventory.
 | Camera | [X100F](https://fujifilm-x.com/global/products/cameras/x100f/) | Fujifilm | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/fujifilm_x100f.jpg?raw=true" width="100"> | Color: Brown |
 | Camera | HERO4 Black | GoPro | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/gopro_hero4_black.jpg?raw=true" height="100"> |  |
 | Camera | [K-5](http://www.ricoh-imaging.co.jp/english/products/k-5/feature.html) | Pentax | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/pentax_k5.jpg?raw=true" width="100"> |  |
-| Camera | [FA 77mm/F1,8 Limited](http://www.ricoh-imaging.co.jp/english/products/lens/k/telephoto/smcpentax-fa77/) (宾得二公主) | Pentax | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/fa_77mm.jpg?raw=true" width="100"> | Color: Silver |
+| Camera | [FA 77mm/F1,8 Limited](http://www.ricoh-imaging.co.jp/english/products/lens/k/telephoto/smcpentax-fa77/) (宾得二公主) | Pentax | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/pentax_fa_77mm.jpg?raw=true" width="100"> | Color: Silver |
 | Camera | [OM 4](https://www.dji.com/om-4) | DJI | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/dji_om_4.jpg?raw=true" height="100"> |  |
 | Camera | Genius Light GL-01 | Iwata | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/iwata_gl_01.jpg?raw=true" height="100"> |  |
 | Home Camera | [Mi Home Security Camera 360°](https://www.mi.com/us/camera-360) (小米智能摄像机 云台版) | Xiaomi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/mi_home_camera_360.jpg?raw=true" width="100"> |  |
