@@ -54,6 +54,7 @@ My personal gadget inventory.
 | Keyboard | HHKB Pro 2 Type-S | PFU Limited (Fujitsu) | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/hhkb_pro_2_type_s.jpg?raw=true" width="100"> |  |
 | Keyboard | Magic Keyboard with Numeric Keypad | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_magic_keyboard_with_numeric_keypad_silver.jpeg?raw=true" width="100"> | Color: Silver |
 | Mouse | MX Master 3 | Logitech | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/logitech_mx_master_3.jpg?raw=true" width="100"> | Color: Mid Grey |
+| Mouse | [Viper Mini](https://www.razer.com/gaming-mice/Razer-Viper-Mini/RZ01-03250100-R3U1) | Razer | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/razer_viper_mini.jpg?raw=true" width="100"> |  |
 | Mouse | Magic Trackpad | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_magic_trackpad.jpeg?raw=true" width="100"> |  |
 | Presentation Remote | Spotlight | Logitech | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/logitech_spotlight.jpg?raw=true" height="100"> | Color: Gold |
 | Optical Drive | SE-218CN/RSBS Ultra Slim-Line External DVD 8X | Samsung | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/samsung_se_218cn_rsbs_external_dvd.jpg?raw=true" width="100"> |  |
