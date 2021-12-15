@@ -67,6 +67,8 @@ My personal gadget inventory.
 | Tablet | iPad mini 4 | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_ipad_mini_4_gold.jpeg?raw=true" width="100"> | Wi-Fi + Cellular 128 GB - Gold |
 | Tablet | iPad Pro 12.9" (5th generation) | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_ipad_pro_12_silver.jpeg?raw=true" width="100"> | 12.9-inch Wi-Fi 512 GB - Silver |
 | Tablet | Nexus 9 | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_nexus_9.png?raw=true" width="100"> | Wi-Fi 16 GB, Giveaway by Google I/O 2015 |
+| Phone | Nextbit Robin | Nextbit | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nextbit_robin.jpg?raw=true" width="100"> | Color: Mint |
+| Phone | [Xperia 1 III](https://electronics.sony.com/mobile/smartphone/all/p/xqbc62-v) | Sony | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sony_xperia_1_iii.jpeg?raw=true" width="100"> | Color: Frosted Purple |
 | Networking | [RT-AC68U AC1900](https://www.asus.com/Networking/RTAC68U/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rt_ac68u_ac1900.jpg?raw=true" width="100"> |  |
 | Networking | [RP-AC87 AC2600](https://www.asus.com/Networking/RP-AC87/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rp_ac87_ac2600.jpg?raw=true" width="100"> |  |
 | Networking | [RP-AX56 AX1800](https://www.asus.com/Networking-IoT-Servers/Range-Extenders-/All-series/RP-AX56/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rp_ax56_ax1800.png?raw=true" height="100"> |  |
