@@ -104,4 +104,5 @@ My personal gadget inventory.
 | Sport | [One S2](https://eu-en.segway.com/products/ninebot-by-segway-one-s2) | Ninebot by Segway | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ninebot_one_s2.png?raw=true" width="100"> |  |
 | Toy | [Tengu All Stars](http://www.tengutengutengu.com/) | Mr Jones | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/tengu_all_stars_stardust.jpg?raw=true" width="100"> | Form: Stardust |
 | Toy | [Cozmo](https://anki.com/en-us/cozmo.html) | Anki | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/anki_cozmo.png?raw=true" width="100"> | Collector's Edition in Liquid Metal |
+| Other | [Flipper Zero](https://flipperzero.one/) | Flipper Devices | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/flipper_devices_flipper_zero.png?raw=true" width="100"> |  |
 |  |  |  |  |  |
