@@ -13,6 +13,8 @@ My personal gadget inventory.
 | Console | PlayStation 4 Pro | Sony | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sony_ps4_pro.png?raw=true" height="100"> |  |
 | Console | Switch | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nintendo_switch.jpg?raw=true" height="100"> | with Neon Blue and Neon Red Joy‑Con |
 | Console | New Nintendo 3DS + Dragon Ball Z: Extreme Butoden Pack | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/new_nintendo_3ds_dragon_ball_z.jpg?raw=true" height="100"> |  |
+| Console | [Analogue Pocket](https://www.analogue.co/pocket) | Analogue | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/analogue_pocket.png?raw=true" height="100"> |  |
+| Console | [Miyoo-mini](https://lemiyoo.cn/product/) | lemiyoo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/miyoo-mini.png?raw=true" width="100"> | Color: White |
 | Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/8bitdo_sf30_pro.jpg?raw=true" width="100"> |  |
 | Console | Nimbus | SteelSeries | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/steelseries_nimbus.jpg?raw=true" width="100"> |  |
 | Multimedia | Chromecast (1st generation) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_chromecast_1st_gen.jpg?raw=true" height="100"> |  |
@@ -67,6 +69,8 @@ My personal gadget inventory.
 | Tablet | iPad mini 4 | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_ipad_mini_4_gold.jpeg?raw=true" width="100"> | Wi-Fi + Cellular 128 GB - Gold |
 | Tablet | iPad Pro 12.9" (5th generation) | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_ipad_pro_12_silver.jpeg?raw=true" width="100"> | 12.9-inch Wi-Fi 512 GB - Silver |
 | Tablet | Nexus 9 | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_nexus_9.png?raw=true" width="100"> | Wi-Fi 16 GB, Giveaway by Google I/O 2015 |
+| Phone | Nextbit Robin | Nextbit | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nextbit_robin.jpg?raw=true" width="100"> | Color: Mint |
+| Phone | [Xperia 1 III](https://electronics.sony.com/mobile/smartphone/all/p/xqbc62-v) | Sony | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sony_xperia_1_iii.jpeg?raw=true" width="100"> | Color: Frosted Purple |
 | Networking | [RT-AC68U AC1900](https://www.asus.com/Networking/RTAC68U/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rt_ac68u_ac1900.jpg?raw=true" width="100"> |  |
 | Networking | [RP-AC87 AC2600](https://www.asus.com/Networking/RP-AC87/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rp_ac87_ac2600.jpg?raw=true" width="100"> |  |
 | Networking | [RP-AX56 AX1800](https://www.asus.com/Networking-IoT-Servers/Range-Extenders-/All-series/RP-AX56/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rp_ax56_ax1800.png?raw=true" height="100"> |  |
@@ -78,6 +82,7 @@ My personal gadget inventory.
 | Storage | Supersonic Rage 2 | Patriot | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/patriot_supersonic_rage_2.jpg?raw=true" width="100"> | 128GB |
 | Storage | [Porsche Design USB-C Mobile Hard Drive (STFD2000400)](https://www.lacie.com/support/mobile-storage/porsche-design-mobile-drive/) | LaCie | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/lacie_porsche_design_mobile_hard_drive_STFD2000400.jpg?raw=true" width="100"> | 2TB, silver |
 | Adapter | [Type-C Aluminum Multi-Port Adapter 4K with Ethernet](https://satechi.net/products/satechi-aluminum-multi-port-adapter-4k) | Satechi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/satechi_type_c_multi_port_adapter_4k_with_ethernet.jpg?raw=true" width="100"> | Color: Gold |
+| Power | [myStrom WiFi Switch](https://mystrom.com/wifi-switch/) | myStrom | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/mystrom_wifi_switch.jpg?raw=true" width="100"> |  |
 | Power | [PowerCube Original USB](https://www.allocacoc.com/Home/Home/Product/category/category_id/2/group_id/35) | Allocacoc | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/allocacoc_powercube_original_usb.jpg?raw=true" width="100"> | Color: Cobalt Blue |
 | Power | [PowerCube Extended](https://www.allocacoc.com/Home/Home/Product/category/category_id/2/group_id/825) | Allocacoc | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/allocacoc_powercube_extended.jpg?raw=true" width="100"> | Color: Kelly Green |
 | Power | [World Adapter CLASSIC](https://www.skross.com/en/products/world-travel-adapters) | SKROSS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/skross_world_adapter_classic.jpg?raw=true" width="100"> | Color: White |
@@ -101,4 +106,5 @@ My personal gadget inventory.
 | Sport | [One S2](https://eu-en.segway.com/products/ninebot-by-segway-one-s2) | Ninebot by Segway | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ninebot_one_s2.png?raw=true" width="100"> |  |
 | Toy | [Tengu All Stars](http://www.tengutengutengu.com/) | Mr Jones | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/tengu_all_stars_stardust.jpg?raw=true" width="100"> | Form: Stardust |
 | Toy | [Cozmo](https://anki.com/en-us/cozmo.html) | Anki | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/anki_cozmo.png?raw=true" width="100"> | Collector's Edition in Liquid Metal |
+| Other | [Flipper Zero](https://flipperzero.one/) | Flipper Devices | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/flipper_devices_flipper_zero.png?raw=true" width="100"> |  |
 |  |  |  |  |  |
