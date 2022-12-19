@@ -2,7 +2,7 @@
 
 My personal gadget inventory.
 
-| Category | Model | Brand | Appearance | Specs Characteristics |
+| Category | Model | Brand | Appearance | Specs / Characteristics |
 | --- | --- | --- | --- | --- |
 | Wearable | [Google Glass Explorer Edition](https://www.google.com/glass/) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_glass.jpeg?raw=true" height="100"> | Color: Tangerine |
 | Wearable | [Myo armband](https://support.getmyo.com/hc/en-us) | Thalmic Labs (North) | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/myo.jpg?raw=true" height="100"> |  |
