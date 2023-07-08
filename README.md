@@ -14,7 +14,7 @@ My personal gadget inventory.
 | Console | Switch | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nintendo_switch.jpg?raw=true" height="100"> | with Neon Blue and Neon Red Joy‑Con |  |
 | Console | New Nintendo 3DS + Dragon Ball Z: Extreme Butoden Pack | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/new_nintendo_3ds_dragon_ball_z.jpg?raw=true" height="100"> |  |  |
 | Console | [Steam Deck](https://store.steampowered.com/steamdeck) | Valve | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/steam_deck.png?raw=true" width="100"> | 512GB NVMe SSD |  |
-| Console | [ROG Ally](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/) | ASUS |  | AMD Ryzen™ Z1 Extreme, 16GB, 512GB​ |  |
+| Console | [ROG Ally](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rog_ally.png?raw=true" width="100"> | AMD Ryzen™ Z1 Extreme, 16GB, 512GB​ |  |
 | Console | [Analogue Pocket](https://www.analogue.co/pocket) | Analogue | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/analogue_pocket.png?raw=true" height="100"> |  |  |
 | Console | [Miyoo-mini](https://lemiyoo.cn/product/) | lemiyoo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/miyoo-mini.png?raw=true" width="100"> | Color: White |  |
 | Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/8bitdo_sf30_pro.jpg?raw=true" width="100"> |  |  |
