@@ -20,6 +20,7 @@ My personal gadget inventory.
 | Console | Nimbus | SteelSeries | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/steelseries_nimbus.jpg?raw=true" width="100"> |  |  |
 | Multimedia | Chromecast (1st generation) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_chromecast_1st_gen.jpg?raw=true" height="100"> |  |  |
 | Multimedia | Chromecast (2nd generation) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_chromecast_2nd_gen.jpeg?raw=true" height="100"> |  |  |
+| Multimedia | Chromecast with Google TV (HD) | Google |  |  |  |
 | Multimedia | [SHIELD TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/) | NVIDIA | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nvidia_shield_tv_pro.jpg?raw=true" width="100"> |  |  |
 | Multimedia | Mi Box 3 Enhanced Edition (小米盒子3增强版) | Xiaomi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/mi_box_3_enhanced_edition.png?raw=true" width="100"> |  |  |
 | Multimedia | Tencent Penguin Aurora 2nd generation TV Box (腾讯极光2代盒子) | Tencent (Skyworth) | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/tencent_aurora_2nd_gen.png?raw=true" width="100"> |  |  |
