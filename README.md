@@ -10,7 +10,7 @@ My personal gadget inventory.
 | eReader | Kindle Oasis (9th Generation) | Amazon | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/amazon_kindle_oasis.jpg?raw=true" height="100"> | WLAN 32GB |  |
 | E Ink Tablet | [reMarkable 2](https://remarkable.com/store/remarkable-2) | reMarkable | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/remarkable_2.jpg?raw=true" width="100"> |  |  |
 | Console | Xbox 360 Star Wars Limited Edition (with Kinect) | Microsoft | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/microsoft_xbox_360_star_wars_limited_edition_1.jpg?raw=true" height="100"> |  |  |
-| Console | PlayStation 4 Pro | Sony | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sony_ps4_pro.png?raw=true" height="100"> |  |  |
+| Console | PlayStation 4 Pro | SONY | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sony_ps4_pro.png?raw=true" height="100"> |  |  |
 | Console | Switch | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nintendo_switch.jpg?raw=true" height="100"> | with Neon Blue and Neon Red Joy‑Con |  |
 | Console | New Nintendo 3DS + Dragon Ball Z: Extreme Butoden Pack | Nintendo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/new_nintendo_3ds_dragon_ball_z.jpg?raw=true" height="100"> |  |  |
 | Console | [Steam Deck](https://store.steampowered.com/steamdeck) | Valve | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/steam_deck.png?raw=true" width="100"> | 512GB NVMe SSD |  |
@@ -33,7 +33,7 @@ My personal gadget inventory.
 | HiFi | [Porta Pro](https://www.koss.com/headphones/on-ear-headphones/porta-pro) | Koss | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/koss_porta_pro.jpg?raw=true" width="100"> |  |  |
 | HiFi | [ATH-EM7 GM](https://www.audio-technica.com/cms/headphones/e11718e915315e8f/index.html) | Audio-Technica | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ath_em7_gm.jpg?raw=true" width="100"> |  |  |
 | HiFi | [ATH-ES88](https://www.audio-technica.com/cms/headphones/cec456b4dffd1dab/index.html) | Audio-Technica | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ath_es88.jpg?raw=true" width="100"> |  |  |
-| HiFi | [MDR-1ADAC](https://www.sony.com/electronics/support/wired-headphones-headband/mdr-1adac) | Sony | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sony_mdr_1adac.jpg?raw=true" width="100"> | Color: Silver |  |
+| HiFi | [MDR-1ADAC](https://www.sony.com/electronics/support/wired-headphones-headband/mdr-1adac) | SONY | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sony_mdr_1adac.jpg?raw=true" width="100"> | Color: Silver |  |
 | HiFi | E900M | Onkyo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/onkyo_e900m.jpg?raw=true" width="100"> |  |  |
 | HiFi | [S10 HD](https://support.motorola.com/us/en/products/accessories/bluetooth-headsets/s10-hd) | Motorola | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/motorola_s10_hd.jpg?raw=true" width="100"> |  |  |
 | HiFi | [Powerbeats2 Wireless](https://www.beatsbydre.com/support/earphones/powerbeats2-wireless) | Beats | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/beats_powerbeats_2.png?raw=true" width="100"> | Color: Black |  |
@@ -75,7 +75,7 @@ My personal gadget inventory.
 | Tablet | iPad Pro 12.9" (5th generation) | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_ipad_pro_12_silver.jpeg?raw=true" width="100"> | 12.9-inch Wi-Fi 512 GB - Silver |  |
 | Tablet | Nexus 9 | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_nexus_9.png?raw=true" width="100"> | Wi-Fi 16 GB | Giveaway by Google I/O 2015 |
 | Phone | Nextbit Robin | Nextbit | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nextbit_robin.jpg?raw=true" width="100"> | Color: Mint |  |
-| Phone | [Xperia 1 III](https://electronics.sony.com/mobile/smartphone/all/p/xqbc62-v) | Sony | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sony_xperia_1_iii.jpeg?raw=true" width="100"> | Color: Frosted Purple |  |
+| Phone | [Xperia 1 III](https://electronics.sony.com/mobile/smartphone/all/p/xqbc62-v) | SONY | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sony_xperia_1_iii.jpeg?raw=true" width="100"> | Color: Frosted Purple |  |
 | Networking | [RT-AC68U AC1900](https://www.asus.com/Networking/RTAC68U/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rt_ac68u_ac1900.jpg?raw=true" width="100"> |  |  |
 | Networking | [ROG Rapture GT-AX6000](https://rog.asus.com/networking/rog-rapture-gt-ax6000-model/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rog_rapture_gt_ax6000.jpeg?raw=true" width="100"> |  |  |
 | Networking | [RP-AC87 AC2600](https://www.asus.com/Networking/RP-AC87/) | ASUS | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/asus_rp_ac87_ac2600.jpg?raw=true" width="100"> |  |  |
