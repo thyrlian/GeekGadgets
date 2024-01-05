@@ -47,6 +47,7 @@ My personal gadget inventory.
 | HiFi | [AT2020USB+](https://www.audio-technica.com/cms/wired_mics/5879a6ca22e5aa7e/index.html) | Audio-Technica | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/at2020usb_plus.jpg?raw=true" width="100"> |  |  |
 | HiFi | [AT-LP1240-USB](https://www.audio-technica.com/cms/turntables/d6801ac106377de4/index.html) | Audio-Technica | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/at_lp1240_usb.jpg?raw=true" width="100"> |  |  |
 | HiFi | [Strap Edge](https://www.woojer.com/products/strap) | Woojer | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/woojer-strap.png?raw=true" width="100"> |  |  |
+| HiFi | [ATS-909X2](https://www.sangean.com/en/product/ats-909x2-graphite) | SANGEAN | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/sangean_ats-909x2.png?raw=true" width="100"> | Color: Graphite |  |
 | Smart Speaker | Google Home Mini | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_home_mini.jpg?raw=true" height="100"> |  |  |
 | Smart Clock | [LaMetric TIME](https://lametric.com/en-US/time/overview) | LaMetric | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/lametric_time.jpg?raw=true" width="100"> |  |  |
 | Controller | [Stream Deck MK.2](https://www.elgato.com/en/stream-deck-mk2) | Elgato | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/elgato_stream_deck_mk2.jpg?raw=true" width="100"> | Color: White |  |
