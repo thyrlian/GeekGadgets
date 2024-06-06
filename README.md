@@ -77,6 +77,12 @@ My personal gadget inventory.
 | Computer | MacBook Pro (13-inch, 2017) | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_macbook_pro_13_inch_2017_touch_gray.jpeg?raw=true" width="100"> | 3.5 GHz Dual-Core Intel Core i7, 16 GB 2133 MHz LPDDR3, 512 GB SSD |  |
 | Computer | Mac mini (2018, 4th Generation) | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_mac_mini_2018.jpeg?raw=true" width="100"> | 3.2 GHz 6-Core 8th-Generation Intel Core i7 (Turbo Boost up to 4.6 GHz), 32 GB 2666 MHz DDR4, 512 GB SSD, 10 Gigabit Ethernet | [Power Consumption](https://support.apple.com/en-gb/HT201897): Idle (19.9W), Max (122W) |
 | Computer | [Chromebook Pixel (Wi-Fi) 32GB](https://en.wikipedia.org/wiki/Chromebook_Pixel) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_chromebook_pixel.jpg?raw=true" width="100"> |  | Giveaway by Google I/O 2013 |
+
+
+| Computer | [Razer Blade 16 (2024)](https://www.razer.com/eu-en/gaming-laptops/razer-blade-16) | Razer | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/razer_blade_16.jpg?raw=true" width="100"> |  | 14th Gen Intel® Core™ i9-14900HX 2.4 GHz, Boost up to 5.8 GHz, 24 Cores / 32 Threads, 36MB of Cache, 96 GB DDR5-5600MHz, Samsung 990 PRO (2TB) PCIe 4.0 NVMe M.2 SSD, NVIDIA® GeForce RTX™ 4070 (8GB GDDR6 VRAM), 16" QHD+ 240Hz OLED (2560 x 1600) |
+
+
+
 | Tablet | iPad mini 4 | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_ipad_mini_4_gold.jpeg?raw=true" width="100"> | Wi-Fi + Cellular 128 GB - Gold |  |
 | Tablet | iPad Pro 12.9" (5th generation) | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_ipad_pro_12_silver.jpeg?raw=true" width="100"> | 12.9-inch Wi-Fi 512 GB - Silver |  |
 | Tablet | Nexus 9 | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_nexus_9.png?raw=true" width="100"> | Wi-Fi 16 GB | Giveaway by Google I/O 2015 |
