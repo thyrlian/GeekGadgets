@@ -128,6 +128,7 @@ My personal gadget inventory.
 | Mount & Stand | [LP708](https://www.lulian.cn/product/1101.html) | UGREEN | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ugreen_lp708.jpg?raw=true" width="100"> |  |  |
 | Mount & Stand | LP876 | UGREEN | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/ugreen_lp876.png?raw=true" width="100"> |  |  |
 | Mount & Stand | [HoverBar Tower](https://www.twelvesouth.com/products/hoverbar-tower) | Twelve South | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/twelvesouth_hoverbar_tower.png?raw=true" width="100"> | Color: Matte White |  |
+| Smart Home | [Hub M1S Gen 2](https://www.aqara.com/en/product/hub-m1s-gen-2/) | Aqara | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/aqara_hub_m1s_gen_2.png?raw=true" width="100"> |  |  |
 | Health | [BPM Connect](https://www.withings.com/eu/en/bpm-connect) | Withings | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/withings_bpm_connect.png?raw=true" height="100"> |  |  |
 | Health | [Mi Body Composition Scale 2](https://www.mi.com/global/mi-body-composition-scale/) | Xiaomi | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/xiaomi_mi_body_composition_scale_2.png?raw=true" width="100"> |  |  |
 | Watch | [PRW-7000-1A](https://www.protrek.eu/euro/collection/prw-7000-1aer/) | Casio | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/casio_prw_7000_1a.png?raw=true" width="100"> |  |  |
