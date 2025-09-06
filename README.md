@@ -22,6 +22,7 @@ My personal gadget inventory.
 | Console | [Analogue Pocket](https://www.analogue.co/pocket) | Analogue | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/analogue_pocket.png?raw=true" height="100"> |  |  |
 | Console | [Miyoo-mini](https://lemiyoo.cn/product/) | lemiyoo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/miyoo-mini.png?raw=true" width="100"> | Color: White |  |
 | Console | [RG35XX Plus](https://anbernic.com/products/rg35xx-plus) | ANBERNIC | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/anbernic_rg35xx_plus.jpg?raw=true" width="100"> | Color: Black Transparent |  |
+| Console | Brick Hammer | TRIMUI | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/trimui_brick_hammer.jpg?raw=true" width="100"> | Color: Wild Green |  |
 | Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/8bitdo_sf30_pro.jpg?raw=true" width="100"> |  |  |
 | Console | Nimbus | SteelSeries | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/steelseries_nimbus.jpg?raw=true" width="100"> |  |  |
 | Multimedia | Chromecast (1st generation) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_chromecast_1st_gen.jpg?raw=true" height="100"> |  |  |
