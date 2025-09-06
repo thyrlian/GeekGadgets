@@ -80,6 +80,7 @@ My personal gadget inventory.
 | Keyboard | [Kick75](https://nuphy.com/products/nuphy-kick75-page) | NuPhy | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/nuphy_kick75.jpg?raw=true" width="100"> | High Profile, QMK & VIA Firmware, Blush Switch, Aluminum Plate |  |
 | Keyboard | Magic Keyboard with Numeric Keypad | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_magic_keyboard_with_numeric_keypad_silver.jpeg?raw=true" width="100"> | Color: Silver |  |
 | Keyboard | Magic Keyboard | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_magic_keyboard_white.jpeg?raw=true" width="100"> | Color: White |  |
+| Keyboard | VK-01 | ANTICATER | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/anticater_vk_01.jpg?raw=true" width="100"> | Color: 米青 |  |
 | Mouse | MX Master 3 | Logitech | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/logitech_mx_master_3.jpg?raw=true" width="100"> | Color: Mid Grey |  |
 | Mouse | [Viper Mini](https://www.razer.com/gaming-mice/Razer-Viper-Mini/RZ01-03250100-R3U1) | Razer | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/razer_viper_mini.jpg?raw=true" width="100"> |  |  |
 | Mouse | Magic Trackpad | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_magic_trackpad.jpeg?raw=true" width="100"> |  |  |
