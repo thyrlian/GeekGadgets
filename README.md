@@ -25,6 +25,7 @@ My personal gadget inventory.
 | Console | Brick Hammer | TRIMUI | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/trimui_brick_hammer.jpg?raw=true" width="100"> | Color: Wild Green |  |
 | Console | [SF30 Pro](https://download.8bitdo.com/Manual/Controller/SN30pro+SF30pro/SN30pro+SF30pro_Manual.pdf) | 8BitDo | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/8bitdo_sf30_pro.jpg?raw=true" width="100"> |  |  |
 | Console | Nimbus | SteelSeries | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/steelseries_nimbus.jpg?raw=true" width="100"> |  |  |
+| Console | Mini Retro Ananke Controller | IINE | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/iine_mini_retro_ananke_controller.jpg?raw=true" width="100"> | Color: Green |  |
 | Multimedia | Chromecast (1st generation) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_chromecast_1st_gen.jpg?raw=true" height="100"> |  |  |
 | Multimedia | Chromecast (2nd generation) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_chromecast_2nd_gen.jpeg?raw=true" height="100"> |  |  |
 | Multimedia | Chromecast with Google TV (HD) | Google | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/google_chromecast_with_google_tv_hd.png?raw=true" height="100"> |  |  |
