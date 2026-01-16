@@ -83,6 +83,7 @@ My personal gadget inventory.
 | Keyboard | Magic Keyboard with Numeric Keypad | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_magic_keyboard_with_numeric_keypad_silver.jpeg?raw=true" width="100"> | Color: Silver |  |
 | Keyboard | Magic Keyboard | Apple | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/apple_magic_keyboard_white.jpeg?raw=true" width="100"> | Color: White |  |
 | Keyboard | [XK01 TP](https://www.protoarc.com/products/xk01-tp-foldable-keyboard-with-touchpad) | ProtoArc | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/protoarc_xk01_tp.jpg?raw=true" width="100"> |  |  |
+| Keyboard | [NOVA-Mini Ultra Tri-Mode Wireless Mechanical Keyboard](https://www.luminkey.com/products/nova-mini-barebone-keyboard) | Luminkey | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/luminkey_nova_mini_ultra.png?raw=true" width="100"> |  |  |
 | Keyboard | VK-01 | ANTICATER | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/anticater_vk_01.jpg?raw=true" width="100"> | Color: 米青 |  |
 | Mouse | MX Master 3 | Logitech | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/logitech_mx_master_3.jpg?raw=true" width="100"> | Color: Mid Grey |  |
 | Mouse | [MX Master 4](https://www.logitech.com/en-us/shop/p/mx-master-4) | Logitech | <img src="https://github.com/thyrlian/GeekGadgets/blob/master/assets/images/logitech_mx_master_4.png?raw=true" width="100"> | Color: Pale Gray |  |
