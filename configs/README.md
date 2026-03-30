@@ -7,5 +7,6 @@
 ## Configurations
 
 * Luminkey NOVA-Mini Ultra
+  * [User Guide](https://www.luminkey.com/pages/user-guide)
   * [VIA Configurator](https://usevia.app/)
   * [VIA Definition JSON](./LK_Nova_Ultra(20205-09-09).json)
